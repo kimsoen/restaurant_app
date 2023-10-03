@@ -14,13 +14,6 @@ class FoodsAndDrinks extends StatelessWidget {
             width: 16,
             height: 16,
             margin: const EdgeInsets.only(right: 6),
-            decoration: const BoxDecoration(
-                // image: DecorationImage(
-                //     image: AssetImage(
-                //       'assets/icon_check_green.png',
-                //     ),
-                //     fit: BoxFit.cover),
-                ),
           ),
           Text(
             text,
